@@ -1,3 +1,6 @@
+This Is a Food Delivery App Developed using MERN stack
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
